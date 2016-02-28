@@ -2,7 +2,7 @@
 
 基于 Bootstrap，硬编码，多页面，姊妹篇[单页面](https://github.com/byr-gdp/bookTradeSinglePage)。
 
-[预览](byr-gdp.github.io/bookTrade/)
+[预览](https://byr-gdp.github.io/bookTrade/)
 
 ---
 
